@@ -29,6 +29,20 @@ In this context, traditional values (marriage, children, abortion, divorce) are 
   - Age, education level, marital status, and number of children are significantly associated with traditional value adherence.
 - The two dimensions — trust and life experience — are themselves correlated.
 
+## 📊 Visual Insights
+
+### 🧓 Age and Family Values
+
+![Age and Family Values](visuals/age-fam1.png)
+
+Older individuals are significantly more likely to support traditional family values. Nearly half of the most familialist respondents are seniors (46%), while young people dominate the least familialist group. This pattern reflects generational differences rather than just age — older generations were more exposed to state-promoted pronatalist discourse.
+
+### 🎓 Education and Family Values
+
+![Education and Family Values](visuals/edu4-fam.png)
+
+The higher the education level, the lower the likelihood of supporting familialist views. Nearly half (48%) of the very familialist group have no diploma, while university graduates are overrepresented among those rejecting traditional family norms. Education seems to foster openness to alternative family models.
+
 We propose a revised model:  
 > Traditional value adherence is shaped simultaneously by individual life experience and institutional trust patterns.
 
